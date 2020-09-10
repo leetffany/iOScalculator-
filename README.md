@@ -1,5 +1,5 @@
 # iOScalculator-
 iOS calculator mockup :D 
 
-# image of demo 
+# Image of Demo 
 ![Test Image 3](/fullyfunctionalCalculator.png)
